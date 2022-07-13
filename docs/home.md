@@ -5,7 +5,7 @@ slug: /
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/sJzfZsL.jpg" width="154" />
+  <img src="https://spartacodingclub.kr/v5/icons/logo_v2.svg" width="154" />
   <h1 align="center">InstaPy</h1>
   <p align="center">Tooling that <b>automates</b> your social media interactions to "farm" Likes, Comments, and Followers on Instagram implemented in Python using the Selenium module.</p>
   <p align="center">
